@@ -1,4 +1,3 @@
-***
 #Design a function that prints the even numbers in a range of numbers
 def even(n): 
     for number in range(1, n+1):
